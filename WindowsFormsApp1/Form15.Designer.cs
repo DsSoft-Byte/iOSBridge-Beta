@@ -39,9 +39,9 @@
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(105, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(258, 24);
+            this.label1.Size = new System.Drawing.Size(256, 24);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Downloading iOSBridge-Light";
+            this.label1.Text = "Downloading iOSBridge-Dark";
             // 
             // label2
             // 
@@ -64,7 +64,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(463, 100);
+            this.ClientSize = new System.Drawing.Size(459, 96);
             this.ControlBox = false;
             this.Controls.Add(this.progressBar1);
             this.Controls.Add(this.label2);
